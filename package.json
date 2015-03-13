@@ -1,0 +1,21 @@
+{
+  "name": "easy-wx",
+  "version": "0.0.1",
+  "description": "wechat api helper",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "wechat",
+    "wexin",
+    "api helper"
+  ],
+  "author": "Wang Qiu <winsonwq@gmail.com> (http://slender-man.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "MD5": "^1.2.1",
+    "es6-promise": "^2.0.1",
+    "request": "^2.53.0",
+    "rndm": "^1.1.0",
+    "sha1": "^1.1.0"
+  }
+}
