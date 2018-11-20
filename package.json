@@ -1,6 +1,6 @@
 {
   "name": "easy-wx",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "wechat api helper",
   "main": "index.js",
   "scripts": {},
